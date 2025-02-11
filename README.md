@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Myndfull](https://vivekanand-r.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://vivekanand-r.netlify.app/](https://vivekanand-r.netlify.app/)
 
